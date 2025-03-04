@@ -76,7 +76,7 @@ class DefaultFileReader(FileLoaderSkill):
             except Exception as e:
                 self.logger.info(f"Error reading file {file_path}: {e!s}")
                 continue
-
+            
         self.logger.info(f"Finished reading {len(result)} documents")
 
         return result

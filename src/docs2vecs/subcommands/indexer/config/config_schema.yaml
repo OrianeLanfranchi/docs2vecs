@@ -10,7 +10,7 @@ definitions:
         schema:
           type:
             type: string
-            allowed: ['exporter', 'embedding', 'vector-store', 'uploader', 'splitter', 'integrated_vec', 'file-scanner', 'file-reader', 'loader']
+            allowed: ['exporter', 'embedding', 'vector-store', 'uploader', 'splitter', 'integrated_vec', 'file-scanner', 'file-reader', 'loader', 'tester']
             required: True
           name:
             type: string

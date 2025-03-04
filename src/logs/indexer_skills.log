@@ -101,3 +101,328 @@
 2025-02-26 18:30:17,568 - SemanticSplitter - INFO - Running SemanticSplitter...
 2025-02-26 18:30:17,568 - SemanticSplitter - DEBUG - Processing document: /Users/dpomian/Downloads/globaldns.md
 2025-02-26 18:30:19,397 - SemanticSplitter - DEBUG - Split /Users/dpomian/Downloads/globaldns.md into 3 chunks
+2025-03-04 14:12:43,840 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-03-04 14:12:43,843 - FileScannerSkill - INFO - Found file: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:43,844 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-03-04 14:12:43,844 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-03-04 14:12:46,378 - DefaultFileReader - INFO - Successfully read file: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:46,378 - DefaultFileReader - INFO - AAAAAAAAAAA
+2025-03-04 14:12:46,378 - DefaultFileReader - INFO - Finished reading 16 documents
+2025-03-04 14:12:46,379 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-03-04 14:12:46,380 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,380 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 1 chunks
+2025-03-04 14:12:46,380 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,381 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 14:12:46,381 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,381 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 14:12:46,381 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,382 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 14:12:46,382 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,382 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 14:12:46,382 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,383 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 14:12:46,383 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,383 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 14:12:46,383 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,384 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 14:12:46,384 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,384 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 14:12:46,385 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,385 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 14:12:46,385 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,386 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 14:12:46,386 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,387 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 14:12:46,387 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,388 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 14:12:46,388 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,388 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 14:12:46,389 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,390 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 14:12:46,390 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 14:12:46,391 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 14:12:58,668 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-03-04 14:12:58,669 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 16 documents
+2025-03-04 14:12:58,669 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:58,751 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:58,824 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:58,895 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:58,995 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:59,107 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:59,198 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:59,303 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:59,378 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:59,464 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:59,569 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:59,660 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:59,736 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:59,814 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:12:59,909 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:00,047 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:00,146 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-03-04 14:13:01,722 - ChromaDBVectorStoreSkill - DEBUG - Going to process 16 documents
+2025-03-04 14:13:01,722 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:01,812 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:01,837 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:01,866 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:01,894 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:01,920 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:01,951 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:01,991 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:02,012 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:02,040 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:02,092 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:02,153 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:02,205 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:02,261 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:02,338 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 14:13:02,402 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:00,862 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-03-04 15:22:00,864 - FileScannerSkill - INFO - Found file: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:00,865 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-03-04 15:22:00,865 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-03-04 15:22:02,535 - DefaultFileReader - INFO - Successfully read file: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:02,535 - DefaultFileReader - INFO - AAAAAAAAAAA
+2025-03-04 15:22:02,536 - DefaultFileReader - INFO - Finished reading 16 documents
+2025-03-04 15:22:02,537 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-03-04 15:22:02,538 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,538 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 1 chunks
+2025-03-04 15:22:02,538 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,538 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:22:02,539 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,539 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:22:02,539 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,540 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:22:02,540 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,540 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:22:02,541 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,541 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:22:02,541 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,542 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:22:02,542 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,543 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:22:02,543 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,544 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:22:02,544 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,545 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:22:02,545 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,545 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:22:02,546 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,547 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:22:02,547 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,548 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:22:02,550 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,552 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:22:02,552 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,553 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:22:02,553 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:22:02,554 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:22:03,617 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-03-04 15:22:03,618 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 16 documents
+2025-03-04 15:22:03,619 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:03,713 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:03,849 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:03,968 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:04,143 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:04,342 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:04,485 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:04,648 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:04,760 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:04,900 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:05,068 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:05,211 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:05,328 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:05,449 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:05,588 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:05,771 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:05,904 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-03-04 15:22:06,646 - ChromaDBVectorStoreSkill - DEBUG - Going to process 16 documents
+2025-03-04 15:22:06,646 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:06,739 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:06,819 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:06,885 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:06,940 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,007 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,074 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,116 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,138 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,164 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,198 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,224 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,263 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,317 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,375 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:22:07,426 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:48,765 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-03-04 15:50:48,767 - FileScannerSkill - INFO - Found file: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:48,767 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-03-04 15:50:48,768 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-03-04 15:50:50,781 - DefaultFileReader - INFO - Successfully read file: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:50,782 - DefaultFileReader - INFO - Finished reading 16 documents
+2025-03-04 15:50:50,784 - TestSkill - INFO - TESTSKILL IS HERE
+2025-03-04 15:50:50,786 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-03-04 15:50:50,787 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,787 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 1 chunks
+2025-03-04 15:50:50,787 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,788 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:50:50,789 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,790 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:50:50,791 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,792 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:50:50,792 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,792 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:50:50,793 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,793 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:50:50,794 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,794 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:50:50,795 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,796 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:50:50,796 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,797 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:50:50,797 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,797 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:50:50,797 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,798 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:50:50,798 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,799 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:50:50,799 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,800 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:50:50,800 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,801 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:50:50,801 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,802 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:50:50,802 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:50:50,803 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:50:51,978 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-03-04 15:50:51,979 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 16 documents
+2025-03-04 15:50:51,980 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:52,034 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:52,152 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:52,264 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:52,445 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:52,640 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:52,814 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:53,028 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:53,162 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:53,304 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:53,509 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:53,666 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:53,791 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:53,915 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:54,091 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:54,282 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:54,470 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-03-04 15:50:55,974 - ChromaDBVectorStoreSkill - DEBUG - Going to process 16 documents
+2025-03-04 15:50:55,974 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,146 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,205 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,259 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,315 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,388 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,441 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,480 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,534 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,587 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,659 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,708 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,761 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,840 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,892 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:50:56,961 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:01,920 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-03-04 15:52:01,922 - FileScannerSkill - INFO - Found file: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:01,923 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-03-04 15:52:01,924 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-03-04 15:52:03,440 - DefaultFileReader - INFO - Successfully read file: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:03,440 - DefaultFileReader - INFO - Finished reading 16 documents
+2025-03-04 15:52:03,441 - TestSkill - INFO - TESTSKILL IS HERE
+2025-03-04 15:52:03,442 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-03-04 15:52:03,442 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,443 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 1 chunks
+2025-03-04 15:52:03,443 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,443 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:52:03,444 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,444 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:52:03,444 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,444 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:52:03,444 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,445 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:52:03,445 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,445 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:52:03,445 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,445 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:52:03,445 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,446 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:52:03,446 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,446 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:52:03,446 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,446 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:52:03,447 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,447 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:52:03,447 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,447 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:52:03,448 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,448 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 4 chunks
+2025-03-04 15:52:03,448 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,448 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:52:03,448 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,449 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 6 chunks
+2025-03-04 15:52:03,450 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf...
+2025-03-04 15:52:03,450 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf into 5 chunks
+2025-03-04 15:52:04,453 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-03-04 15:52:04,454 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 16 documents
+2025-03-04 15:52:04,454 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:04,507 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:04,659 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:04,736 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:04,882 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:05,080 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:05,269 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:05,464 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:05,611 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:05,780 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:05,967 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:06,125 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:06,274 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:06,412 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:06,588 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:06,785 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:06,974 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-03-04 15:52:08,492 - ChromaDBVectorStoreSkill - DEBUG - Going to process 16 documents
+2025-03-04 15:52:08,492 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:08,716 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:08,815 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:08,932 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:09,065 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:09,167 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:09,367 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:09,471 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:09,542 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:09,653 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:09,727 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:09,828 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:09,920 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:09,996 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:10,078 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:52:10,189 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/catan_base_rules_2020_200707.pdf
+2025-03-04 15:57:12,891 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-03-04 15:57:12,893 - FileScannerSkill - INFO - Found file: /mnt/c/Users/olanfranchi/Documents/files_to_scan/Bees don't have ears.txt
+2025-03-04 15:57:12,893 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-03-04 15:57:12,894 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-03-04 15:57:12,898 - DefaultFileReader - INFO - Successfully read file: /mnt/c/Users/olanfranchi/Documents/files_to_scan/Bees don't have ears.txt
+2025-03-04 15:57:12,898 - DefaultFileReader - INFO - Finished reading 1 documents
+2025-03-04 15:57:12,901 - TestSkill - INFO - TESTSKILL IS HERE
+2025-03-04 15:57:12,908 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-03-04 15:57:12,909 - RecursiveCharacterTextSplitter - DEBUG - Splitting /mnt/c/Users/olanfranchi/Documents/files_to_scan/Bees don't have ears.txt...
+2025-03-04 15:57:12,910 - RecursiveCharacterTextSplitter - DEBUG - Split /mnt/c/Users/olanfranchi/Documents/files_to_scan/Bees don't have ears.txt into 1 chunks
+2025-03-04 15:57:14,056 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-03-04 15:57:14,057 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 1 documents
+2025-03-04 15:57:14,057 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/Bees don't have ears.txt
+2025-03-04 15:57:14,105 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-03-04 15:57:16,445 - ChromaDBVectorStoreSkill - DEBUG - Going to process 1 documents
+2025-03-04 15:57:16,445 - ChromaDBVectorStoreSkill - DEBUG - Processing document: /mnt/c/Users/olanfranchi/Documents/files_to_scan/Bees don't have ears.txt
