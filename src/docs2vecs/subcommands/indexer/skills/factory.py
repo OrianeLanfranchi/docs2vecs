@@ -15,7 +15,7 @@ from docs2vecs.subcommands.indexer.skills.recursive_character_splitter_skill imp
 from docs2vecs.subcommands.indexer.skills.scrollwordexporter_skill import ScrollWorldExporterSkill
 from docs2vecs.subcommands.indexer.skills.semantic_splitter_skill import SemanticSplitter
 from docs2vecs.subcommands.indexer.skills.tracker import VectorStoreTracker
-from docs2vecs.subcommands.indexer.skills.test_skill import TestSkill
+from docs2vecs.subcommands.indexer.skills.anonymizer_skill import AnonymizerSkill
 
 class SkillType(StrEnum):
     EXPORTER = "exporter"
@@ -26,7 +26,7 @@ class SkillType(StrEnum):
     UPLOADER = "uploader"
     SPLITTER = "splitter"
     LOADER = "loader"
-    TESTER = "tester"
+    ANONYMIZER = "anonymizer"
 
 
 class AvailableSkillName(StrEnum):
@@ -59,7 +59,7 @@ class AvailableSkillName(StrEnum):
     JIRA_LOADER = "jira-loader"
 
     # anonymizers
-    TEST_SKILL = "test-skill"
+    ANONYMIZER_SKILL = "anonymizer"
 
 
 AVAILABLE_SKILLS = {
@@ -85,7 +85,7 @@ AVAILABLE_SKILLS = {
         AvailableSkillName.RECURSIVE_CHARACTER_SPLITTER: RecursiveCharacterTextSplitter,
     },
     SkillType.LOADER: {AvailableSkillName.JIRA_LOADER: JiraLoaderSkill},
-    SkillType.TESTER: {AvailableSkillName.TEST_SKILL: TestSkill}
+    SkillType.ANONYMIZER: {AvailableSkillName.ANONYMIZER_SKILL: AnonymizerSkill}
 }
 
 
