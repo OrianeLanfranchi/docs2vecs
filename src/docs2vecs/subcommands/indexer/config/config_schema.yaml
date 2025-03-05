@@ -18,6 +18,9 @@ definitions:
             type: dict
             required: False
             schema:
+              fake_data:
+                type: boolean
+                required: False
               api_url:
                 type: string
                 regex: '^http.*'

@@ -9,6 +9,7 @@ from docs2vecs.subcommands.indexer.skills.skill import IndexerSkill
 class AnonymizerSkill(IndexerSkill):
     def __init__(self, skill_config: dict, global_config: Config) -> None:
         super().__init__(skill_config, global_config)
+        self.fakeData = self._config.get("fake_data", False)
 
     def run(self, input: Optional[List[Document]] = None) -> List[Document]:
         if not input:
@@ -23,7 +24,9 @@ class AnonymizerSkill(IndexerSkill):
             pseudonymizer = CustomAnonymizer(add_default_faker_operators=False)
 
             pseudonymizer.add_custom_recognizers()
-            # pseudonymizer.add_custom_fake_data_generators() # Uncomment this line to generate fake data instead of placeholders
+
+            if self.fakeData:
+                pseudonymizer.add_custom_fake_data_generators() # Will generate fale data instead of placeholders when anonymizing data
 
             document.text = pseudonymizer.anonymize_document(document.text)
 
